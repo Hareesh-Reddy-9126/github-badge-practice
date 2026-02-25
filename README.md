@@ -38,6 +38,23 @@ The Galaxy Brain achievement is unlocked when your answer in a GitHub Discussion
 4. Post a **clear, detailed, and helpful answer**
 5. If the question author marks your answer as the accepted answer ✅, you earn progress
 
+### Practice with a Friend
+
+Yes! You **can** earn the Galaxy Brain badge by practicing with a friend. The badge works on **any** GitHub repository that has Discussions enabled — not just the GitHub Community forum. Here's how:
+
+1. **Enable Discussions** on this repository (Settings → General → Features → ✅ Discussions)
+2. Ask your friend to **create a new Discussion** (Q&A category) in this repo
+3. **Post your answer** to your friend's question
+4. Your friend **marks your answer as accepted** ✅
+5. You earn progress toward the Galaxy Brain badge! 🎉
+
+Repeat this process to reach higher tiers:
+- Do it **1 time** → 🥉 Galaxy Brain x1
+- Do it **8 times** → 🥈 Galaxy Brain x2
+- Do it **16 times** → 🥇 Galaxy Brain x3
+
+> **Note:** Each accepted answer must be on a **different discussion**. The same discussion can only count once. Your friend needs their own GitHub account to create discussions and mark answers.
+
 ### Tips to Get Your Answer Accepted
 
 - **Answer quickly** — Be one of the first to respond to a new question
