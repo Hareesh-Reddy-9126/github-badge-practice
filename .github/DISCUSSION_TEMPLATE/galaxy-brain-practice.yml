@@ -1,0 +1,15 @@
+title: "[Practice] Galaxy Brain Discussion"
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to practice GitHub Discussions.
+        Ask a question and have someone mark your answer as accepted to earn the Galaxy Brain badge!
+  - type: textarea
+    attributes:
+      label: Question
+      description: Ask a question for others to answer.
+      placeholder: What would you like to know?
+    validations:
+      required: true
