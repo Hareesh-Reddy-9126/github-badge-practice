@@ -8,5 +8,3 @@ Practicing pull requests for GitHub YOLO achievement badge.
 
 Collaboration practice for Pair Extraordinaire GitHub badge.
 
-
-
